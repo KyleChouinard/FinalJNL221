@@ -1,0 +1,87 @@
+img{
+	width: 100%;
+}
+
+
+.rowTop2{
+	margin: auto;
+}
+
+.rec{
+	text-align: center;
+	font-family: Georgia, sans-serif;
+	font-size: 15pt;
+	line-height: 15pt;
+}
+
+h1{
+	font-family: Georgia, sans-serif;
+	color: #f47920;
+	text-align: center;
+}
+
+}
+h2{
+	font-family: Georgia, sans-serif;
+}
+
+.rowTop{
+	background-color: #f47920;
+}
+
+.caption{
+	font-size: 10pt;
+	font-family:  Verdana, sans-serif;
+	color: lightslategray;
+}
+
+.Kicker{
+	font-family: Arial Narrow, sans-serif;
+	text-align: center;
+}
+
+.byline{
+	font-family: Bahnschrift SemiBold, sans-serif;
+	font-size: 12pt;
+	color: black;
+	line-height: 14pt;
+	text-align: left;
+}
+
+
+.Headline{
+	font-family: Georgia, serif;
+	color: #f47920;
+	font-size: 20pt;
+	text-align: center;
+	line-height: 23pt;
+}
+
+.icon{
+	height: 10%;
+	border-radius: 50%;
+}
+
+.dek{
+	font-family: Bahnschrift SemiBold, sans-serif;
+	font-size: 12pt;
+	color: darkgray;
+	text-align: center;
+}
+
+.credit{
+	font-family: Bahnschrift SemiBold, sans-serif;
+	font-size: 8pt;
+	color: darkgray;
+	text-align: right;
+	line-height: 8pt;
+}
+
+
+.caption{
+	font-family: Bahnschrift SemiBold, sans-serif;
+	font-size: 8pt;
+	color: black;
+	text-align: left;
+	line-height: 8pt;
+}
